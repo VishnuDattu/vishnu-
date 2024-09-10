@@ -4,7 +4,7 @@ Artificial Intelligence and Machine Learning Lab Instruction Sheets
 
 [Lab 02](https://github.com/VishnuDattu/vishnu-/blob/main/AIML_LAB_2.ipynb): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
 
-[Lab 03](): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
+[Lab 03](https://github.com/VishnuDattu/vishnu-/blob/main/AIML_LAB_3.ipynb): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 
 [Lab 04](): Implement Linear Regression using Boston Housing Data
 
